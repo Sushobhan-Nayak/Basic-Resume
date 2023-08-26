@@ -1,0 +1,47 @@
+* {
+  margin: 5px;
+  color: #36382e;
+}
+body {
+  background-color: #ede6e3;
+}
+.links {
+  font-size: 18px;
+}
+.first-head {
+  text-align: center;
+  font-size: 18px;
+}
+.img-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-links a {
+  color: blue;
+  text-decoration: none;
+}
+.my-image {
+  margin-right: 200px;
+  border-radius: 5%;
+}
+.about {
+  background-color: #f07860;
+}
+.about td {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+.details {
+  margin: 20px;
+  border: 2px solid #36382e;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #6fcbf0;
+}
+.details legend {
+  border-bottom: 2px solid #36382e;
+  background-color: #ede6e3;
+}
+footer {
+  text-align: center;
+}
